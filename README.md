@@ -1,5 +1,5 @@
 # Full Stack Web Development Internship Project
-
+**Live Demo:** [https://mycosmeticshop.gt.tc](https://mycosmeticshop.gt.tc)
 **Internship:** Accent Techno Soft  
 **Duration:** July 2024 – August 2024  
 
