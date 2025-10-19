@@ -23,3 +23,7 @@ It allows users to browse, add to cart, and purchase cosmetic products online.
 ---
 
 💼 *Developed during my Full Stack Web Development Internship @ Accent Techno Soft.*
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
