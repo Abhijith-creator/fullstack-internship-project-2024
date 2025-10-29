@@ -1,4 +1,6 @@
-<?php ob_start(); ?>
+<?php ob_start();
+include 'config.php';
+ ?>
 <!DOCTYPE html>
 <html lang="en">
     <?php
