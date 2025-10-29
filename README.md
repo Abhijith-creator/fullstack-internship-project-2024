@@ -1,5 +1,7 @@
 # Full Stack Web Development Internship Project
 
+**Live Demo:** [https://mycosmeticshop.gt.tc](https://mycosmeticshop.gt.tc)
+
 **Internship:** Accent Techno Soft  
 **Duration:** July 2024 – August 2024  
 
@@ -21,3 +23,7 @@ It allows users to browse, add to cart, and purchase cosmetic products online.
 ---
 
 💼 *Developed during my Full Stack Web Development Internship @ Accent Techno Soft.*
+
+## License
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
